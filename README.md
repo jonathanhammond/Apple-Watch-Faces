@@ -1,4 +1,4 @@
-AppleWatchBinaryClockFace
+AppleWatchFaces
 =========================
 
 Binary clock face for Apple Watch
